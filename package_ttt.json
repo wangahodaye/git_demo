@@ -1,0 +1,23 @@
+{
+  "name": "testwanghao",
+  "version": "1.0.0",
+  "description": "此包用于测试，npm的使用。",
+  "main": "nodeserver.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodeser2000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "项目存放地址暂无"
+  },
+  "keywords": [
+    "css",
+    "js"
+  ],
+  "author": "王蒿大爷",
+  "license": "ISC"
+}
